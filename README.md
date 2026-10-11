@@ -3,11 +3,11 @@
 
 - 💼 Backend Developer at **Flyakeed (AkeedTravel)**, building a multi-supplier flight platform with **Laravel** since 2020
 
-- ⚙️ Tech I work with daily: **Laravel Octane**, **AWS (ECS, RDS, ElastiCache Redis, SQS, CloudWatch)**, **Redis**, **MySQL**, **OpenTelemetry**
+- ⚙️ Tech I work with daily: **Laravel Octane**, **Redis**, **MySQL**
 
 - 🌱 Always sharpening: **PHP OOP, Design Patterns, performance of long-running PHP workers**
 
-- 💬 Ask me about **Laravel, PHP, GDS/NDC airline integrations, EDIFACT, fare pricing transformation**
+- 💬 Ask me about **Laravel, PHP, GDS/NDC airline integrations, EDIFACT**
 
 - 📫 How to reach me **ahmed_salim@rocketmail.com**
 
